@@ -1,2 +1,5 @@
 build/
 *.sw?
+src/*.h
+src/*.c
+src/Makefile
