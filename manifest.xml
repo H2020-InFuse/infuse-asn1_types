@@ -16,4 +16,6 @@
   -->
   <depend package="types/base" />
   <depend package="types/sensor_samples" />
+  <depend package="types/fused" />
+
 </package>
